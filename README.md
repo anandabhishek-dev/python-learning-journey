@@ -8,4 +8,4 @@ I'll continue updating this repository as I learn new concepts and gain more exp
 
 ---
 
-*"Every expert was once a beginner. This repository is where my journey begins."*
+*"Every expert was once a beginner. This repository is where my journey begins trial."*
